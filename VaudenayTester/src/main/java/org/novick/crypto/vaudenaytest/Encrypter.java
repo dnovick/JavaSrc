@@ -1,10 +1,5 @@
 package org.novick.crypto.vaudenaytest;
 
-import java.security.NoSuchAlgorithmException;
-
-import javax.crypto.Cipher;
-import javax.crypto.NoSuchPaddingException;
-
 import org.bouncycastle.crypto.engines.*;
 import org.bouncycastle.crypto.params.*;
 
