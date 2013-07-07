@@ -16,6 +16,7 @@ public class Encrypter {
 	{
 		_aesEngine = new AESEngine();
 		
+		//TODO: Initialize the AES engine
 		//_aesEngine.
 		
 	}
