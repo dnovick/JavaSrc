@@ -29,7 +29,7 @@ public class MainApp {
 		
 		context.close();
 		
-		System.out.println("Application exiting.");
+		System.out.println("Application exiting now.");
 		
 	}
 
