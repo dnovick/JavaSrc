@@ -1,6 +1,5 @@
 package org.novick.crypto.vaudenaytest;
 
-import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.bouncycastle.crypto.prng.*;
 
